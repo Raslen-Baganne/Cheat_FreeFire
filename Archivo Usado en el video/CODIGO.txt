@@ -1,0 +1,64 @@
+
+
+
+Application.Exit();
+
+this.WindowState = FormWindowState.Minimized;
+
+
+
+
+
+
+
+int PosY = 0;
+int PosX = 0;
+
+if (e.Button != MouseButtons.Left)
+{
+    PosX = e.X;
+    PosY = e.Y;
+}
+else
+{
+    Left = Left + (e.X - PosX);
+    Top = Top + (e.Y - PosY);
+}
+
+
+
+
+
+     public static api KeyAuthApp = new api(
+     name: "",
+     ownerid: "",
+     secret: "",
+     version: ""
+);
+
+
+
+
+
+KeyAuthApp.login(username.Text, password.Text);
+if (KeyAuthApp.response.success)
+{
+
+    Form1 ML = new Form1();
+    ML.Show();
+    Hide();
+}
+else
+{
+    
+    //  SoundPlayer Sonido = new SoundPlayer();
+    //  Sonido.SoundLocation = "C:/Users/Miguel Angel Diaz/Downloads/notificacionerror.wav";
+    //  Sonido.Play();
+
+    MessageBox.Show("Usuario Gratis Desablitado Compra Tu licencia");
+}
+
+
+
+KeyAuthApp .init();
+KeyAuthApp.check();
