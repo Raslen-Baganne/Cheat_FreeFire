@@ -1,0 +1,22 @@
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\bin\Debug\net8.0-windows\Revenge Hack.exe
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\bin\Debug\net8.0-windows\Revenge Hack.deps.json
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\bin\Debug\net8.0-windows\Revenge Hack.runtimeconfig.json
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\bin\Debug\net8.0-windows\Revenge Hack.dll
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\bin\Debug\net8.0-windows\Revenge Hack.pdb
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\bin\Debug\net8.0-windows\Memory.dll
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\obj\Debug\net8.0-windows\Revenge Hack.csproj.AssemblyReference.cache
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\obj\Debug\net8.0-windows\Revenge_Hack.Form1.resources
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\obj\Debug\net8.0-windows\Revenge Hack.csproj.GenerateResource.cache
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\obj\Debug\net8.0-windows\Revenge Hack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\obj\Debug\net8.0-windows\Revenge Hack.AssemblyInfoInputs.cache
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\obj\Debug\net8.0-windows\Revenge Hack.AssemblyInfo.cs
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\obj\Debug\net8.0-windows\Revenge Hack.csproj.CoreCompileInputs.cache
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\obj\Debug\net8.0-windows\Revenge .41496DF2.Up2Date
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\obj\Debug\net8.0-windows\Revenge Hack.dll
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\obj\Debug\net8.0-windows\refint\Revenge Hack.dll
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\obj\Debug\net8.0-windows\Revenge Hack.pdb
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\obj\Debug\net8.0-windows\Revenge Hack.genruntimeconfig.cache
+C:\Users\anonym\source\repos\Revenge Hack\Revenge Hack\obj\Debug\net8.0-windows\ref\Revenge Hack.dll
