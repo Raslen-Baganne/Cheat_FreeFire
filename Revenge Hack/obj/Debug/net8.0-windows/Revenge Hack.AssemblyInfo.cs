@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Revenge Hack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c05ef2745bd270658dc58c7ff3cf9956faf9d476")]
 [assembly: System.Reflection.AssemblyProductAttribute("Revenge Hack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Revenge Hack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
